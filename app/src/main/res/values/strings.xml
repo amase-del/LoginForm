@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+
+    <string name="exit_hint">Нажмите еще раз для выхода</string>
+
+    <string name="logo_name">Logo | Name</string>
+    <string name="text_link">НАЖИМАЯ ДАЛЕЕ, ВЫ СОГЛАШАЕТЕСЬ С\n<a href="https://www.ster23.ru">ПОЛИТИКОЙ ОБРАБОТКИ ПЕРСОНАЛЬНЫХ ДАННЫХ</a></string>
+    <string name="fio">Фамилия Имя Отчество</string>
+    <string name="fio_template">%1s\n%2s %3s</string>
+    <string name="birth">Дата рождения</string>
+
+    <string name="phone_number">Ваш номер телефона</string>
+    <string name="phone_error">Некорректный номер</string>
+    <string name="phone_start">+7</string>
+
+    <string name="code_sms">Код из смс</string>
+    <string name="code_error">Неправильный код</string>
+
+    <string name="sex">Пол</string>
+    <string name="sex_m">Мужчина</string>
+    <string name="sex_f">Женщина</string>
+
+    <string name="email">E-mail</string>
+    <string name="next">Далее</string>
+    <string name="registration">Регистрация</string>
+    <string name="registrate">Зарегистрироваться</string>
+    <string name="fio_error">Заполните ФИО</string>
+    <string name="birth_error">Укажите дату рождения</string>
+    <string name="sex_error">Укажите пол</string>
+    <string name="email_error">Укажите email</string>
+    <string name="birth_template">Дата рождения: %1s</string>
+    <string name="sex_template">Пол: %1s</string>
+    <string name="email_template">E-mail: %1s</string>
+</resources>
